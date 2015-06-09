@@ -30,8 +30,8 @@ wjibwe:  Nowe mzinhignan maawndi gaa-tegin, was-wdi gdaa-toomin.
 wdaawaa: Aa haaw, gga-wiisnimi!
 wjibwe:  Aa haaw, gga-wiisnimin!
 
-wdaawaa: Bjiinag go n'gii-boodwe.
-wjibwe:  Bjiinag go n'gii-boodwe.
+wdaawaa: Bjiinag go n'gii-boodwemi.
+wjibwe:  Bjiinag go n'gii-boodwemin.
 
 wdaawaa: Gondag kwewag zhebaa gaa-bi-bskaabiijig?
 wjibwe:  Gowe kwewag zhebaa gaa-bi-bskaabiiwaad?
