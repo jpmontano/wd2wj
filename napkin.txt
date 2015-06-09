@@ -15,7 +15,7 @@ wdaawaa: gga-wiisnimi
 wjibwe:  gga-wiisnimin
 
 Comments:
-Seems we'd need to know the POS (i.e., 1p and 21p). The 3s VAI "gtimi" ("He/She is lazy.") would otherwise trigger falsely.
+Seems we'd need to know the verb's actor (i.e., 1p or 21p). The 3s VAI "gtimi" ("He/She is lazy.") would otherwise trigger falsely.
 
 
 (2) Rule description
