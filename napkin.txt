@@ -1,0 +1,36 @@
+Some unorganized thoughts jotted down on a napkin...
+
+
+(1) Rule description:
+For (a) all 1p VAI and 21p VAI; and (b) all 1p VAIO and 21p VAIO
+wdaawaa  ...mi
+=>wjibwe ...min
+
+Regex:
+echo "gga-wiisnimi" | sed -r 's/(([^ ]+)mi)([^a-zA-Z]|$)/\1n/g'
+
+Result:
+wdaawaa: gga-wiisnimi
+wjibwe:  gga-wiisnimin
+
+
+
+(2) Rule description
+
+Regex:
+
+Result:
+
+
+
+(3) Rule description
+
+Regex:
+
+Result:
+
+
+
+
+
+
