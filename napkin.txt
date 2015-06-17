@@ -2,38 +2,119 @@ Some unorganized thoughts jotted down on a napkin...
 
 
 (1) Rule description:
-For (a) all 1p VAI and 21p VAI; and (b) all 1p VAIO and 21p VAIO
-wdaawaa  n...mi OR g...mi
-=>wjibwe n...min OR g...min, respectively.
+For (a) all 1p VAI (we exclusive) and 21p VAI (we inclusive); and (b) all 1p VAIO (we exclusive) and 21p VAIO (we inclusive)
+wdaawaa   (we exclusive) n...mi OR (we inclusive) g...mi
+=> wjibwe (we exclusive) n...min OR (we inclusive) g...min, respectively.
 
 Regex:
-# "We(incl.) shall eat."
 echo "gga-wiisnimi" | sed -r "s/((^|[^a-zA-Z'-])(n|g|gg)[^ ]+mi)([^a-zA-Z'-]|$)/\1n/g"
 
 Result:
+# "We(incl.) shall eat."
 wdaawaa: gga-wiisnimi
 wjibwe:  gga-wiisnimin
 
 Comments:
-Seems we'd need to know the verb's actor (i.e., 1p or 21p). The 3s VAI "gtimi" ("He/She is lazy.") would otherwise trigger falsely.
+Seems we'd need to know the verb's actor (i.e., 1p (we exclusive) or 21p (we exclusive)). The 3s VAI "gtimi" ("He/She is lazy.") would otherwise trigger falsely.
 
 
 (2) Rule description
+wdaawaa initial-silent-w
+=> not silent in wjibwe
 
 Regex:
+#
 
 Result:
+# "car" (noun animate)
+wdaawaa: daabaan
+wjibwe:  wdaabaan
 
+# "Cree person" (noun animate)
+wdaawaa: mashkiigoo
+wjibwe:  wmashkiigoo
+
+# "He/She is choosing s.t." (VTI)
+wdaawaa: naabndaan
+wjibwe:  wnaabndaan
+
+# "cup" (noun inanimate)
+wdaawaa: naagan
+wjibwe:  wnaagan
 
 
 (3) Rule description
+wdaawaa changed conjunct plural ending -jig
+=> wjibwe changed conjunct plural ending -waad
 
 Regex:
+#
 
 Result:
+# "The ones who wanna walk"
+wdaawaa: waa-bmosejig
+wjibwe:  waa-bmosewaad
 
 
+(4) Rule description
+wdaawaa past tense changed conjunct gaa-
+=> wjibwe past tense changed conjunct gaa-gii-
+
+Regex:
+#
+
+Result:
+# "The one who ate"
+wdaawaa: gaa-wiisnid
+wjibwe:  gaa-gii-wiisnid
 
 
+(5) Rule description
+wdaawaa present tense changed conjunct e-
+=> wjibwe past tense changed conjunct gaa-
+For 'beings' (animate and inanimate), this rule is mandatory. For 'place' (i.e., wnji-) and 'manner' (i.e., zhi-), this rule is optional.
+
+Regex:
+#
+
+Result:
+# "The one who is eating"
+# MANDATORY CONVERSION
+wdaawaa: e-wiisnid
+wjibwe:  gaa-wiisnid
+
+# "The place which he/she is eating"
+# OPTIONAL CONVERSION
+wdaawaa: enji-wiisnid (silent initial 'w')
+wjibwe:  wenji-wiisnid OR gaa-wnji-wiisnid
+
+# "The manner in which he/she is eating"
+# OPTIONAL CONVERSION
+wdaawaa: e-zhi-wiisnid
+wjibwe:  e-zhi-wiisnid OR gaa-zhi-wiisnid
 
 
+(6) Rule description
+wdaawaa singular dubitative ending -dig
+=> wjibwe singular dubitative ending -dog
+
+Regex:
+#
+
+Result:
+# yaa (3s VAI) "H/S is [in a certain place]."
+wdaawaa: yaadig
+wjibwe:  yaadog
+
+
+(7) Rule description
+wdaawaa singular preterit ending -ba
+=> wjibwe singular preterit ending -ban
+
+Regex:
+#
+
+Result:
+# yaa (3s VAI) "H/S is [in a certain place]."
+wdaawaa: yaaba
+wjibwe:  yaaban
