@@ -1,7 +1,16 @@
 Some unorganized thoughts jotted down on a napkin...
 
+(1) Rule description
+Non-inflecting, and always the same for both Wdaawaa and Wjibwe when coming from Wdaawaa to Wjibwe:
+"go"->"go", "na"->"na", "naa"->"naa", "-sh"->"-sh", "wedi"->"wedi", "mii"->"mii", "aa"->"aa", "haaw"->"haaw", "bjiinag"->"bjiinag", "zhebaa"->"zhebaa"
 
-(1) Rule description:
+
+(2) Rule description
+Non-inflecting, and always different for Wdaawaa and Wjibwe when coming from Wdaawaa to Wjibwe:
+"maampii"->"maawndi", "zhonda"->"maawndi", "gondag"->"gowe", "nondan"->"nowe", "oodi"->"wdi", "ooshta oodi"->"was-oodi", "aanii"->"boozhoo"
+
+
+(3) Rule description:
 For (a) all 1p VAI (we exclusive) and 21p VAI (we inclusive); and (b) all 1p VAIO (we exclusive) and 21p VAIO (we inclusive)
 wdaawaa   (we exclusive) n...mi OR (we inclusive) g...mi
 => wjibwe (we exclusive) n...min OR (we inclusive) g...min, respectively.
@@ -18,7 +27,7 @@ Comments:
 Seems we'd need to know the verb's actor (i.e., 1p (we exclusive) or 21p (we exclusive)). The 3s VAI "gtimi" ("He/She is lazy.") would otherwise trigger falsely.
 
 
-(2) Rule description
+(4) Rule description
 wdaawaa initial-silent-w
 => not silent in wjibwe
 
@@ -43,7 +52,7 @@ wdaawaa: naagan
 wjibwe:  wnaagan
 
 
-(3) Rule description
+(5) Rule description
 wdaawaa changed conjunct plural ending -jig
 => wjibwe changed conjunct plural ending -waad
 
@@ -56,7 +65,7 @@ wdaawaa: waa-bmosejig
 wjibwe:  waa-bmosewaad
 
 
-(4) Rule description
+(6) Rule description
 wdaawaa past tense changed conjunct gaa-
 => wjibwe past tense changed conjunct gaa-gii-
 
@@ -69,7 +78,7 @@ wdaawaa: gaa-wiisnid
 wjibwe:  gaa-gii-wiisnid
 
 
-(5) Rule description
+(7) Rule description
 wdaawaa present tense changed conjunct e-
 => wjibwe past tense changed conjunct gaa-
 For 'beings' (animate and inanimate), this rule is mandatory. For 'place' (i.e., wnji-) and 'manner' (i.e., zhi-), this rule is optional.
@@ -94,7 +103,7 @@ wdaawaa: e-zhi-wiisnid
 wjibwe:  e-zhi-wiisnid OR gaa-zhi-wiisnid
 
 
-(6) Rule description
+(8) Rule description
 wdaawaa singular dubitative ending -dig
 => wjibwe singular dubitative ending -dog
 
@@ -107,7 +116,7 @@ wdaawaa: yaadig
 wjibwe:  yaadog
 
 
-(7) Rule description
+(9) Rule description
 wdaawaa singular preterit ending -ba
 => wjibwe singular preterit ending -ban
 
