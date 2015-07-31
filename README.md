@@ -7,7 +7,7 @@
 
 ```
 wdaawaa: Zhonda dash? Wenesh naa maampii ge-tooyaambaanh?
-wjibwe:  Maawndi dash? Wegnen naa maawndi ge-tooyaambaan?
+wjibwe:  Maawndi dash? Wegnen naa wmaandi ge-tooyaambaan?
 
 wdaawaa: Aanii! Aapii-sh naa enjibaayan, nwiijkiwenh?
 wjibwe:  Boozhoo! Aandi-sh naa wenjiiyan, nwiijikwenh?
@@ -35,6 +35,9 @@ wjibwe:  Bjiinag go n'gii-boodwemin.
 
 wdaawaa: Gondag kwewag zhebaa gaa-bi-bskaabiijig?
 wjibwe:  Gowe kwewag zhebaa gaa-bi-bskaabiiwaad?
+
+wdaawaa: Mii na go maampii enji-wiisniyeg?
+wjibwe: Mii na go wmaandi endzhi-wiisniyeg?
 
 . . .
 ```
