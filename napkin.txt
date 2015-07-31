@@ -110,7 +110,9 @@ changed conjunct form transforms the "d" morpheme into an "nd" morpheme:
 The _past_ tense changed conjunt of "dzhi-", however, behaves regularly:
 "dzhi-": ('d', 'zh', 'i', '-') => ('g', 'aa', '-', 'd', 'zh', 'i', '-')
 [Note: wdaawaa exhibits this behavior, as well; but, for a different token.
-       See wdaawaa's "daad (vai)", for example.]
+       See wdaawaa's "daad (vai)", for example: The _present tense_ changed
+       conjunct of wdaawaa's "daa" is "endaad". And, the _past_ tense of
+       wdaawaa's "daa" is "gaa-daad".]
 ***************************************************************************
 # "The place which he/she is eating"
 # OPTIONAL CONVERSION
