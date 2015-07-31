@@ -37,7 +37,9 @@ wdaawaa: Gondag kwewag zhebaa gaa-bi-bskaabiijig?
 wjibwe:  Gowe kwewag zhebaa gaa-bi-bskaabiiwaad?
 
 wdaawaa: Mii na go maampii enji-wiisniyeg?
-wjibwe: Mii na go wmaandi endzhi-wiisniyeg?
+wjibwe1: Mii na go wmaandi endzhi-wiisniyeg?
+wjibwe2: Mii na go wmaandi gaa-dzhi-wiisniyeg?
+
 
 . . .
 ```
