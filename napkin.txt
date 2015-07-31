@@ -7,7 +7,7 @@ Non-inflecting, and always the same for both Wdaawaa and Wjibwe when coming from
 
 (2) Rule description
 Non-inflecting, and always different for Wdaawaa and Wjibwe when coming from Wdaawaa to Wjibwe:
-"maampii"->"maawndi", "zhonda"->"maawndi", "gondag"->"gowe", "nondan"->"nowe", "oodi"->"wdi", "washta oodi"->"was-wdi", "aanii"->"boozhoo"
+"maampii"->"wmaandi", "zhonda"->"maawndi", "gondag"->"gowe", "nondan"->"nowe", "oodi"->"wdi", "washta oodi"->"was-wdi", "aanii"->"boozhoo"
 
 
 (3) Rule description:
@@ -92,15 +92,30 @@ Result:
 wdaawaa: e-wiisnid
 wjibwe:  gaa-wiisnid
 
-# "The place which he/she is eating"
-# OPTIONAL CONVERSION
-wdaawaa: enji-wiisnid (silent initial 'w')
-wjibwe:  wenji-wiisnid OR gaa-wnji-wiisnid
 
 # "The manner in which he/she is eating"
 # OPTIONAL CONVERSION
 wdaawaa: e-zhi-wiisnid
 wjibwe:  e-zhi-wiisnid OR gaa-zhi-wiisnid
+
+
+***************************************************************************
+In the following example, the wdaawaa "enji" 'should' morph into "wenji".
+But, it doesn't.
+Instead, wjibwe uses the completely different preverb "dzhi-"
+(instead of wdaawaa's "wnji-").
+Additionally, "dzhi-" is irregular in that its _present tense_
+changed conjunct form transforms the "d" morpheme into an "nd" morpheme:
+"dzhi-": ('d', 'zh', 'i', '-') => ('e', 'nd', 'zh', 'i', '-')
+The _past_ tense changed conjunt of "dzhi-", however, behaves regularly:
+"dzhi-": ('d', 'zh', 'i', '-') => ('g', 'aa', '-', 'd', 'zh', 'i', '-')
+[Note: wdaawaa exhibits this behavior, as well; but, for a different token.
+       See wdaawaa's "daad (vai)", for example.]
+***************************************************************************
+# "The place which he/she is eating"
+# OPTIONAL CONVERSION
+wdaawaa: enji-wiisnid (silent initial 'w')
+wjibwe:  endzhi-wiisnid OR gaa-dzhi-wiisnid
 
 
 (8) Rule description
